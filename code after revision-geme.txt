@@ -1,0 +1,23 @@
+<main>
+  <section class="left-section">
+      <h2 class="section-title">Your Result</h2> <p class="radial-box-num"><span class="score-num">76</span> of 100</p>
+      <p class="result-status">Great</p> <p class="score-description">
+        You scored higher than 65% of the people who have taken these tests.
+      </p>
+  </section>
+
+  <section class="right-section">
+    <header>
+      <h2 class="section-title">Summary</h2> </header>
+    
+    <ul class="summary-items"> <li class="summary-items-flex"> <div class="item-flex">
+          <img src="assets/images/icon-reaction.svg" alt=""/>
+          <p>Reaction</p>
+        </div>
+        <p class="percent-numerator">80 <span class="percent-denominator">/ 100</span></p>
+      </li>
+      </ul>
+    
+    <button>Continue</button>
+  </section>
+</main>
